@@ -1,0 +1,16 @@
+1.1	Adoption by Linuxgurugamer
+	Added transmitter
+	Added surface attachments allowed
+	Added nodes to bottom
+	Adjusted postition of top node
+	Fixed config so probe won't be treated as debris
+
+	Added following parts:
+
+		KurrikaneChute
+		KurrikaneDecoupler
+		KurrikaneEngine
+		KurrikaneFin
+		KurrikaneFuelTank
+		KurrikaneHeatSheild
+		KurrikaneScience parts
