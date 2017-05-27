@@ -1,4 +1,4 @@
-1.1	Adoption by Linuxgurugamer
+1.1.0	Adoption by Linuxgurugamer
 	Added transmitter
 	Added surface attachments allowed
 	Added nodes to bottom
@@ -14,3 +14,7 @@
 		KurrikaneFuelTank
 		KurrikaneHeatSheild
 		KurrikaneScience parts
+
+1.1.1
+	Added Survey Transponder dll, from the Survey Transponder mod:
+		http://forum.kerbalspaceprogram.com/index.php?/topic/111834-122-survey-transponder-051/
