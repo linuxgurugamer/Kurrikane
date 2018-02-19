@@ -1,3 +1,9 @@
+1.1.0.2
+	Added MM config file to revert changes made by Ven's Stock Revamp
+
+1.1.0.1
+	version number change for 1.3
+
 1.1.0	Adoption by Linuxgurugamer
 	Added transmitter
 	Added surface attachments allowed
@@ -15,6 +21,3 @@
 		KurrikaneHeatSheild
 		KurrikaneScience parts
 
-1.1.1
-	Added Survey Transponder dll, from the Survey Transponder mod:
-		http://forum.kerbalspaceprogram.com/index.php?/topic/111834-122-survey-transponder-051/
