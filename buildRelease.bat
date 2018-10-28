@@ -47,7 +47,7 @@ echo Version:  %VERSION%
 
 
 copy ..\MiniAVC.dll Gamedata\Kurrikane
-copy README.md GameData\Kurrikane
+copy README.txt GameData\Kurrikane
 
 
 set FILE="%RELEASEDIR%\Kurrikane-%VERSION%.zip"

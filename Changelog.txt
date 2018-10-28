@@ -1,3 +1,6 @@
+1.1.0.4
+	Version bump for 1.5 rebuild
+	
 1.1.0.2
 	Added MM config file to revert changes made by Ven's Stock Revamp
 
