@@ -1,0 +1,11 @@
+:^VenStockRevamp/Squad/Parts/Aero/BasicFin:Squad/Parts/Aero/basicFin/basicFin:.mu
+:^VenStockRevamp/Squad/Parts/DockingPorts/MK16:Squad/Parts/Utility/parachuteMk1/model:.mu
+:^VenStockRevamp/Squad/Parts/Heatshields/HeatShieldS0:Squad/Parts/Aero/HeatShield/HeatShield0:.mu
+:^VenStockRevamp/Squad/Parts/Propulsion/InlineXenon:Squad/Parts/FuelTank/xenonTank/model:.mu
+:^VenStockRevamp/Squad/Parts/Propulsion/TT-38K:Squad/Parts/Utility/decouplerRadialTT-38K/model:.mu
+Squad/Parts/Aero/basicFin/basicFin.mu
+Squad/Parts/Aero/HeatShield/HeatShield0.mu
+Squad/Parts/Engine/OMSEngine/NewModel.mu
+Squad/Parts/FuelTank/xenonTank/model.mu
+Squad/Parts/Utility/decouplerRadialTT-38K/model.mu
+Squad/Parts/Utility/parachuteMk1/model.mu
