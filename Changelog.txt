@@ -1,5 +1,8 @@
 ChangeLog
 
+1.1.1.1
+	Updated Restock whitelist
+
 1.1.1
 	Updated for KSP 1.8
 
