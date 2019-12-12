@@ -1,5 +1,9 @@
 ChangeLog
 
+1.1.1.2
+	More  updates to the Restock whitelist
+	Fixed DDS texture from DXT3 to DXT5
+
 1.1.1.1
 	Updated Restock whitelist
 

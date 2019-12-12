@@ -1,20 +1,27 @@
 Squad/Parts/Aero/basicFin/basicFin.mu
+Squad/Parts/Aero/basicFin/BasicFin.dds
 Kurrikane/Parts/fin/BasicFin_orange_StripeAdjustedHvy.png
 Kurrikane/Parts/fin/BasicFin_orange_StripeAdjusted.png
 
 Squad/Parts/Aero/HeatShield/HeatShield0.mu
+Squad/Parts/Aero/HeatShield/heatshield.dds
 Kurrikane/Parts/HeatShield/heatshield.dds
 
 Squad/Parts/FuelTank/xenonTank/model.mu
+Squad/Parts/FuelTank/xenonTank/model001.dds
+Squad/Parts/FuelTank/xenonTank/model000.dds
 Kurrikane/Parts/FuelTank/model001.dds
 Kurrikane/Parts/FuelTank/model000.dds
 
-
 Squad/Parts/Utility/decouplerRadialTT-38K/model.mu
+Squad/Parts/Utility/decouplerRadialTT-38K/model000.dds
+Squad/Parts/Utility/decouplerRadialTT-38K/model001.dds
 Kurrikane/Parts/Decoupler/model000.dds
 Kurrikane/Parts/Decoupler/model001.dds
 
 Squad/Parts/Utility/parachuteMk1/model.mu
+Squad/Parts/Utility/parachuteMk1/model000.dds
+Squad/Parts/Utility/parachuteMk1/model001.dds
 Kurrikane/Parts/Chute/model000.dds
 
 Kurrikane/Parts/Engine/K-101.mu
